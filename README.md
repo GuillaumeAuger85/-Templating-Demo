@@ -1,6 +1,6 @@
 # Templating-Demo
 
-![NodeExpressEJS](https://user-images.githubusercontent.com/49698792/182232902-e3402481-6fcd-42c3-a00a-8da6089dbe26.png)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) <img alt='EJS' src='https://img.shields.io/badge/<%25=_EJS %25>-100000?style=for-the-badge&logo=&logoColor=&labelColor=&color=A0B657'/>
 
  Templating demo from [The Web Developer Bootcamp 2022](https://www.udemy.com/course/the-web-developer-bootcamp/) course.
 
